@@ -1,5 +1,5 @@
 {
-    "name": "brianreeve/MimeType",
+    "name": "brianreeve/mime-type",
     "description": "Improves mime_type detection over fileinfo without dependencies on any system utility (such as the Linux file command).",
     "authors": [
         {

@@ -6,9 +6,13 @@ Uses a local cached copy of the mime types from Apache's repository:
 
 http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types
 
-##Installation - Recommended
+##Installation
 
-Use composer
+###Using Composer
+
+Edit composer.json and add:
+
+    "brianreeve/mime-type": "~0"
 
 ##Usage
 
