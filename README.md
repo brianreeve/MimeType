@@ -12,7 +12,7 @@ http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types
 
 Edit composer.json and add:
 
-    "brianreeve/mime-type": "~0"
+    "brianreeve/mime-type": "dev-master"
 
 ##Usage
 
